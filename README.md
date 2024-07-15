@@ -71,7 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
   <img src="https://www.fita.in/includes/assets/img/selenium/selenium-tutorial-01.jpg" title="selenium" alt="selenium" width="60" height="40"/>&nbsp
-  <img src="https://i.ytimg.com/vi/88qxXM3oI0w/maxresdefault.jpg" title="pytest" alt="pytest" width="30" height="60"/>&nbsp
   <img src="https://img.icons8.com/fluent/600/000000/spyder-ide-5.png" title="spyder" alt="spyder" width="40" height="40"/>&nbsp
   <img src="https://migsoft.ru/upload/iblock/a2c/a2c70a20a0508cd9adbae262e85f32fb.jpg" title="sublime" alt="sublime" width="40" height="40"/>&nbsp
   
